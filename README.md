@@ -1,4 +1,4 @@
-Hash Detection Tool Set
+Hash Detection Tool Set  [![Support Marco via Gittip](http://img.shields.io/gittip/marco.svg)](https://www.gittip.com/marco/)
 =====================
 
 ### Original Post
