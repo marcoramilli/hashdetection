@@ -1,7 +1,9 @@
-Hash Detection Tool Set  (if you find it useful, please consider a donation)
+Hash Detection Tool Set  
 =====================
 
 ### Original Post
+
+if you find it useful, please consider a donation.
 [Original Blog Post on the topic](http://marcoramilli.blogspot.it/search?q=hash+detector)
 
 ### Description
